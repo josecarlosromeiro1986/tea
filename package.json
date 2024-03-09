@@ -1,5 +1,19 @@
 {
-  "dependencies": {
-    "formik-reactstrap-widgets": "^0.11.2"
-  }
+  "name": "my-first-package",
+  "version": "1.0.0",
+  "description": "First NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/josecarlosromeiro1986/tea_meniarc.git)"
+  },
+  "keywords": [
+    "First",
+    "NPM"
+  ],
+  "author": "Jose Carlos Romeiro",
+  "license": "ISC"
 }
